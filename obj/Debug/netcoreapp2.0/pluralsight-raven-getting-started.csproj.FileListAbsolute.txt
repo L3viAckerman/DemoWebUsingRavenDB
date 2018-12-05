@@ -1,0 +1,33 @@
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.deps.json
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.runtimeconfig.json
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.runtimeconfig.dev.json
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.dll
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.pdb
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.csprojAssemblyReference.cache
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.csproj.CoreCompileInputs.cache
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.AssemblyInfoInputs.cache
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.AssemblyInfo.cs
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.dll
+C:\Users\LinhLPV\Desktop\1\pluralsight-ravendb-4-getting-started\src\final\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.pdb
+C:\Users\LinhLPV\Desktop\New folder (2)\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.deps.json
+C:\Users\LinhLPV\Desktop\New folder (2)\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.runtimeconfig.json
+C:\Users\LinhLPV\Desktop\New folder (2)\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.runtimeconfig.dev.json
+C:\Users\LinhLPV\Desktop\New folder (2)\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.dll
+C:\Users\LinhLPV\Desktop\New folder (2)\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.pdb
+C:\Users\LinhLPV\Desktop\New folder (2)\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.csprojAssemblyReference.cache
+C:\Users\LinhLPV\Desktop\New folder (2)\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.csproj.CoreCompileInputs.cache
+C:\Users\LinhLPV\Desktop\New folder (2)\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.AssemblyInfoInputs.cache
+C:\Users\LinhLPV\Desktop\New folder (2)\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.AssemblyInfo.cs
+C:\Users\LinhLPV\Desktop\New folder (2)\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.dll
+C:\Users\LinhLPV\Desktop\New folder (2)\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.pdb
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.deps.json
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.runtimeconfig.json
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.runtimeconfig.dev.json
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.dll
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\bin\Debug\netcoreapp2.0\pluralsight-raven-getting-started.pdb
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.csprojAssemblyReference.cache
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.csproj.CoreCompileInputs.cache
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.AssemblyInfoInputs.cache
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.AssemblyInfo.cs
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.dll
+C:\Users\LinhLPV\Desktop\RavenDB4.0_Example\obj\Debug\netcoreapp2.0\pluralsight-raven-getting-started.pdb
